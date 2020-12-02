@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyGame
+</name>
+</assembly>
+<members>
+<member name="T:MyGame.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources._1475205864_2548550535">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources._3bd40c6ccceacafe47fd0a6a83782b6d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources._3bd40c6ccceacafe47fd0a6a83782b6d1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources._61zEQWk7LtL__AC_SL1500_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.aznrmij72wu4ma9mcads">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.aznrmij72wu4ma9mcads1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.background_scene___image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.Full_Screen_Mario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.gameover____">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.hqdefault__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.images__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.images__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.kisspng_pac_man_computer_icons_pong_game_portable_network_pacman_free_multimedia_icons_5b818d17140aa1_2817297215352169190821">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.MAA_00017">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.mario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.mario_removebg_preview__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.mario1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.mario2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.mario3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.mariomario__">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.PACMAN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.peach_win_mario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.poiu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.shnsphotos103337_SH99J339PACMAN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.shnsphotos103337_SH99J339PACMAN1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.shnsphotos103337_SH99J339PACMAN2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.vector_stock_comic_explosion_bang_boom_you_win_text_comic_cartoon_bang_exsplosion_you_win_text_126376540">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.vector_stock_comic_explosion_bang_boom_you_win_text_comic_cartoon_bang_exsplosion_you_win_text_1263765401">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.vector_stock_comic_explosion_bang_boom_you_win_text_comic_cartoon_bang_exsplosion_you_win_text_1263765402">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.vector_stock_comic_explosion_bang_boom_you_win_text_comic_cartoon_bang_exsplosion_you_win_text_1263765403">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
